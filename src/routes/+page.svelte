@@ -84,7 +84,7 @@
 		<div class="card bg-neutral p-4">
 			<div class="flex flex-row">
 				<div class="flex-auto">
-					<div class="font-bold text-xl">{user.Name}</div>
+					<div class="font-bold text-xl capitalize">{user.Name}</div>
 					<div class="text-sm italic">{user.Unit} Unit</div>
 					<div class="text-sm italic">{user.Place}</div>
 				</div>
